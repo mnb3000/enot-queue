@@ -1,0 +1,9 @@
+[submodule "packages/bot"]
+	path = packages/bot
+	url = git@github.com:mnb3000/enot-queue-bot.git
+[submodule "packages/web"]
+	path = packages/web
+	url = git@github.com:mnb3000/enot-queue-web.git
+[submodule "packages/backend"]
+	path = packages/backend
+	url = git@github.com:mnb3000/enot-queue-backend.git

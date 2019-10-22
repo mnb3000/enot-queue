@@ -1,0 +1,17 @@
+{
+  "name": "enot-queue",
+  "version": "1.0.0",
+  "repository": "https://github.com/mnb3000/enot-queue-bot",
+  "author": "mnb3000 <misha.mykolyshyn@gmail.com>",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "start": "lerna run start",
+    "lint": "lerna run lint"
+  },
+  "devDependencies": {
+    "lerna": "^3.18.2"
+  }
+}
