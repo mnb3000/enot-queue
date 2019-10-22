@@ -8,6 +8,7 @@
     "packages/*"
   ],
   "scripts": {
+    "postinstall": "lerna bootstrap",
     "start": "lerna run start",
     "lint": "lerna run lint"
   },
