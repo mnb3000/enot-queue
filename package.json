@@ -6,13 +6,5 @@
   "private": true,
   "workspaces": [
     "packages/*"
-  ],
-  "scripts": {
-    "bootstrap": "lerna bootstrap --stream",
-    "start": "lerna run start --stream",
-    "lint": "lerna run lint --stream"
-  },
-  "devDependencies": {
-    "lerna": "^3.18.2"
-  }
+  ]
 }
